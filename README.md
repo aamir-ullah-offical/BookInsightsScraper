@@ -76,5 +76,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🚀 **Developed by [Aamir Ullah](https://github.com/itz-amir)** | 💻 **GitHub:** [itz-amir](https://github.com/itz-amir)
+🚀 **Developed by [Aamir Ullah](https://github.com/aamir-ullah-offical)** | 💻 **GitHub:** [aamir-ullah-offical](https://github.com/aamir-ullah-offical)
 
